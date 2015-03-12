@@ -1,5 +1,5 @@
 FROM dockerfile/java:oracle-java8
-MAINTAINER Innersource
+MAINTAINER Iván Corrales Solera <developer@wesovi.com>
 
 ENV ES_PKG_NAME elasticsearch-1.4.4
 ENV ES_HOME /opt/elasticsearch
